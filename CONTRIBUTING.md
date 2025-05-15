@@ -1,3 +1,4 @@
 # CONTRIBUTING.md
 
 Notes and usage details for zanadir.
+- clarify the setup steps
