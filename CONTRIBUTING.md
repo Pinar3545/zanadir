@@ -7,3 +7,4 @@ Notes and usage details for zanadir.
 - link the usage section
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
