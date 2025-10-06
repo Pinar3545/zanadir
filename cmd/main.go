@@ -11,3 +11,4 @@ func Run() error {
 // avoid re-reading the config on every call
 // avoid re-reading the config on every call
 // clarify the control flow
+// guard against empty input
