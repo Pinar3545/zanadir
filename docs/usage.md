@@ -10,3 +10,4 @@ Notes and usage details for zanadir.
 - fix a small wording issue
 - link the usage section
 - add a note about the defaults
+- link the usage section
